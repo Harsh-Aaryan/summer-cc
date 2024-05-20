@@ -81,6 +81,20 @@ margin-right: 40px;
     margin-left: -60;
 }
 
+.navigation-auto{
+    position: absolute;
+    display: flex;
+    width: 800px;
+    justify-content: center;
+    margin-top: 460px;
+}
+
+.navigation-auto div{
+    border: 3px solid green;
+    padding: 5px;
+    border-radius: 9px;
+    transition: 1s;
+}
 
 
 
