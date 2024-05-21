@@ -96,5 +96,20 @@ margin-right: 40px;
     transition: 1s;
 }
 
+#radio1:checked~ .navigation-auto .auto-btn1{
+    background: pink;
+}
+
+#radio2:checked~ .navigation-auto .auto-btn2{
+    background: pink;
+}
+
+#radio3:checked~ .navigation-auto .auto-btn3{
+    background: pink;
+}
+
+#radio4:checked~ .navigation-auto .auto-btn4{
+    background: pink;
+}
 
 
