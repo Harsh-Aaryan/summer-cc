@@ -109,3 +109,17 @@ h1.title {
 .navbar_items ul li:hover ul li {
     display: block;
 }
+
+.banner_content{
+    text-align: center;
+    color: whitesmoke;
+}
+.banner_content{
+    text-transform: uppercase;
+    line-height: 38px;
+    margin-bottom: 15px;
+}
+.banner_content h1 span{
+    color: tomato;
+    
+}
